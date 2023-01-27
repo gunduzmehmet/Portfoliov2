@@ -27,7 +27,7 @@ const Projet = ({ title }) => {
                 <p className="mt-7">
                     </p>
             </div>
-            <img class="object-cover h-96 w-96" src={`../assets/${projetTitle}.jpeg`} alt={projetTitle} />
+            <img class="h-96 w-96" src={`../assets/${projetTitle}.jpeg`} alt={projetTitle} />
         </motion.div>
     );
 };
