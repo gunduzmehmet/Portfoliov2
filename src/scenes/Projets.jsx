@@ -57,7 +57,7 @@ const Projets = () => {
                         <LineGradient width="w-1/4" />
                     </div>
                 </div>
-                <p className="mt-10 mb-10">Quelques projets de groupe
+                <p className="mt-10 mb-10">Quelques projets de groupes
                 </p>
             </motion.div>
 
@@ -76,7 +76,7 @@ const Projets = () => {
                     >
                         Projets ⚡️
                     </div >
-                    <Projet  title="E-Commerce"/>
+                    <Projet title="E-Commerce"/>
                     <Projet title="Flutter"/>
 
                     {/*row 2 */}
