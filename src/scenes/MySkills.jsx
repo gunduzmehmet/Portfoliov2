@@ -32,7 +32,10 @@ const MySkills = () => {
                             <li>PHP / Laravel</li>
                             <li>Flutter</li>
                             <li>HTML5 / CSS3</li>
+                            <li>Gestion de projets agiles</li>
                         </ul>
+
+
                     </p>
                 </motion.div>
 
@@ -48,7 +51,7 @@ const MySkills = () => {
                             />
                         </div>
                     ) : (
-                        <img alt="skills" className="z-10" src="assets/skills-image.png" />
+                        <img alt="skills" className="z-10" src="assets/skills-image.jpeg" />
                     )}
                 </div>
             </div>
@@ -76,7 +79,7 @@ const MySkills = () => {
                             <div className="w-1/2 md:w:-3/4 h-32 bg-blue-400 absolute right-0 top-0 z-[-1]" />
                     </div>
                     <p className="mt-5">
-                        Après plusieurs années de travail domaines tels que la vente, la restauration et la construction, 
+                        Après plusieurs années de travail dans divers domaines tels que la vente, la restauration et la construction, 
                         jai voulu changer de métier en me lançant un nouveau challenge et me diriger vers le monde de l'informatique , 
                         le développement web.
                     </p>
@@ -104,7 +107,7 @@ const MySkills = () => {
                             <div className="w-1/2 md:w:-3/4 h-32 bg-red-400 absolute right-0 top-0 z-[-1]" />
                     </div>
                     <p className="mt-5">
-                    Changer le monde, créer les projets les plus fou, comme les plus simple, les plus utiles, les plus originaux… 
+                    Changer le monde, créer les projets les plus fous, comme les plus simple, les plus utiles, les plus originaux… 
                     Le développement web laisse place à l'imagination
                     </p>
                 </motion.div>
