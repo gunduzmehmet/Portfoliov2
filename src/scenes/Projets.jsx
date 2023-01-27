@@ -76,12 +76,12 @@ const Projets = () => {
                     >
                         Projets ⚡️
                     </div >
-                    <Projet  title="E-Commerce"  />
-                    <Projet title="Flutter" />
+                    <Projet  title="E-Commerce"/>
+                    <Projet title="Flutter"/>
 
                     {/*row 2 */}
-                    <Projet title="Dataviz" />
-                    <Projet title="Pico8" />
+                    <Projet title="Dataviz"/>
+                    <Projet title="Pico8"/>
                     {/*<Projet title="Projet 5" />*/}
 
                     {/*row 3 */}
