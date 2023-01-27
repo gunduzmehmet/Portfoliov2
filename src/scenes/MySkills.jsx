@@ -80,7 +80,7 @@ const MySkills = () => {
                     </div>
                     <p className="mt-5">
                         Après plusieurs années de travail dans divers domaines tels que la vente, la restauration et la construction, 
-                        jai voulu changer de métier en me lançant un nouveau challenge et me diriger vers le monde de l'informatique , 
+                        j'ai voulu changer de métier en me lançant un nouveau challenge et me diriger vers le monde de l'informatique , 
                         le développement web.
                     </p>
                 </motion.div>
