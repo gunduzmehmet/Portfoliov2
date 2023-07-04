@@ -53,8 +53,8 @@ const Landing = ({ setSelectedPage }) => {
                         </span>
                     </p>
 
-                    <h1 className="mt-10 mb-10 text-4xl text-center md:text-start">
-                        Développeur web en apprentissage à Ada Tech School, en recherche d'alternance pour Mars 2023 au rythme de 4 jours / 1 jour
+                    <h1 className="mt-10 mb-10 text-4xl text-center md:text-start m-md">
+                        Développeur web en apprentissage à Ada Tech School, en recherche d'alternance au rythme de 4 jours / 1 jour
                         {/*Après plusieurs années d'expériences dans divers domaines tel que la vente, la restauration et la construction,
                         j'ai décidé de me lancer un nouveau challenge dans le développement informatique. L'informatique est une place où je serai régulièrement amener à me remettre en question, me mettre à niveau et monter en compétence.
                         Mes expériences d'avant m'ont apporter beaucoup de choses positives; d'abord de l'autonomie, le travail d'équipe, une discipline et une conscience professionnelle.
@@ -79,7 +79,7 @@ const Landing = ({ setSelectedPage }) => {
                     }}
                 >
                     <AnchorLink
-                        className="bg-gradient-rainblue text-blue-600 rounded-sm py-3 px-7 font-semibold
+                        className="bg-gradient-rainblue text-white rounded-sm py-3 px-7 font-semibold
                     hover:bg-blue-300 hover:text-white transition duration-500 "
                         onClick={() => setSelectedPage("contact")}
                         href="#contact"
