@@ -72,7 +72,7 @@ const Contact = () => {
                     <form
                         target="_blank"
                         onSubmit={onSubmit}
-                        action="https://formsubmit.co/gunduzmg86@gmail.com"
+                        action="https://formsubmit.co/mehmetgunduzpro@gmail.com"
                         method="POST"
                     >
                         <input
@@ -146,4 +146,3 @@ const Contact = () => {
 };
 
 export default Contact;
-
